@@ -1,2 +1,2 @@
 eclipse.preferences.version=1
-task-tag-projects-already-scanned=com.vogella.android.lifecycle.activity
+task-tag-projects-already-scanned=com.vogella.android.lifecycle.activity,com.vogella.android.intent.explicit,de.vogella.android.receiver.phone
